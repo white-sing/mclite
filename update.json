@@ -1,6 +1,6 @@
 {
     "version":  "1.1.0",
-    "url":  "https://github.com/white-sing/mclite/releases/download/v1.1.0/MCLite.exe",
+    "url":  "https://github.com/white-sing/mclite/releases/download/v1.1.0/MCLite-1.1.0.exe",
     "sha1":  "b944b7068fbf73c600c995554ecbb811ce928c0a",
-    "notes":  "MCLite v1.1.0 baseline (TLS 1.2 fix)"
+    "notes":  "MCLite v1.1.0 baseline"
 }
